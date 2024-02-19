@@ -4,7 +4,9 @@ type Props = {}
 
 const page = (props: Props) => {
   return (
-    <div>Add Jobs</div>
+    <div>
+      afsalskflsafk;alskf;ld
+    </div>
   )
 }
 
